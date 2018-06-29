@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Tabla de precios</title>
+	<style type="text/css">
+
+	</style>
+</head>
+<body>
+	<h1>TABLA DE PRECIOS</h1>
+	<table>
+		<thead>
+			<th>Item</th>
+			<th>Codigo</th>
+			<th>Producto</th>
+			<th>Precio</th>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>RCT234</td>
+				<td>Llave inglesa</td>
+				<td>$300,000</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html> 

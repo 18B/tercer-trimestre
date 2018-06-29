@@ -1,0 +1,49 @@
+#container{margin: 0 20% 0 20%;}
+#containerb{ margin: 5% 10% 5% 10%; border: 1% solid #ccc; background-image: url('../imagenes/wody.jpg'); padding: 0 10px 10px 10px; }	
+#fondito{background-color: #f1f5e9;}
+#coly{color: #fff; text-align: left; font-size: 24px}	
+#lado{font-size: 14px; color:#000;}
+label{font-weight: bold;}
+#container1{margin: -3% 20% 0 20%;}
+#container2{margin: -3% 40% 0 40%;}	
+#container3{margin: -3% 60% 0 60%;}	
+#container4{margin: -3% 80% 0 80%;}	
+#container5{margin: -3% 20% 0 20%;}			
+#foot{width: 710px; height: 150px; padding: 0px; margin-top: 0px; border: 1px solid #0B3861;}
+.divfoot{display:inline-block; width: 200px; height: 110px; float: left; margin: 3px; background-color: #FBFCFC ; padding: 15px; }
+.divfoot a{text-decoration: none; color: #54FF18; font-weight: normal;}
+.divfoot a:hover{color: #2E4053; text-decoration: underline;}
+.spanfoot{font-size: 20px; color:#2C5890; font-weight: bold;}	
+h1{font-size: 30px; text-align: center;}
+#amo{color:#21618C;font-family:Broadway; font-size: 50px}
+h2{font-size: 20px; color:#117A65; text-align: center;}
+h3{font-size: 25px; color:#21618C; text-align: center;}
+h4 a{font-size: 20px; text-decoration: none; color: #54FF18; font-weight: normal}
+h4 a:hover{color: #2E4053; text-decoration: underline;}
+p{font-size: 20px; color:#000000; text-align: justify;}
+#separa{margin: 10% 15%}
+h5{font-size: 30px; color:#283747; text-align: center;}
+h6{font-size: 22px;color:#34495E; text-align: center;}
+#lejos{margin: 5% 10%;}
+#nav{width: 100%; background-color: #FBFCFC; height: 200%; display:inline-block; list-style: none; font-size: 25px; padding: 5px 10px;}
+#nav1{width: 100%; height: 200%; text-align: center; display:inline-block; list-style: none; font-size: 25px; padding: 5px 10px;}
+#divimg{text-align: center;}
+#menu{width: 100%; background-color: #FBFCFC; height: 200%; display:inline-block; list-style: none; font-size: 25px; padding: 5px 10px;}
+A:link{color:#2E86C1;}
+A:active{color:#000000;}
+A:visited{color:#34495E;}
+A:hover{color:#85C1E9;}
+#verde{color: #145A32;}
+#verdec{color: #229954;}
+#naranja{color: #F39C12;}
+#naranjac{color:#D35400 ;}
+#rojo{color: #C0392B;}
+#verdeos{color: #335F01;}
+#verdecla{color: #5A7F30;}
+#mora{color: #390870;}
+#moracla{color: #70489E;}
+#rosa{color: #83043C;}
+#rosacla{color: #AC4874;}
+#recuadro{ margin: 5% 10% 5% 10%; border: 1% solid #ccc; background-image: url('../imagenes/wody.jpg'); padding: 0 10px 10px 10px; }
+.divregistrese{color: #fff; font-size: 40px; text-align: left;}	
+#conta{color: #fff; font-size: 40px; text-align: left;}	
